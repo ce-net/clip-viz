@@ -1,0 +1,12 @@
+[app]
+name = "clip-viz"
+version = "0.1.0"
+
+[[component]]
+name = "viz"
+tag = "ce-viz-clip"
+module = "components/viz.js"
+props = ["node-url", "token"]
+events = []
+needs = []
+backing = "clip/sync/1"
