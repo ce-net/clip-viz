@@ -1,0 +1,18 @@
+{
+  "app": "clip-viz",
+  "version": "0.1.0",
+  "components": [
+    {
+      "name": "viz",
+      "tag": "ce-viz-clip",
+      "cid": "998ea4bb0f6cebb65296053522473daf212140462c50cc49a34f4522a3210f84",
+      "props": [
+        "node-url",
+        "token"
+      ],
+      "events": [],
+      "needs": [],
+      "backing": "clip/sync/1"
+    }
+  ]
+}
